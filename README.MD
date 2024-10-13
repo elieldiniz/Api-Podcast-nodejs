@@ -6,7 +6,8 @@ O Podcast Manager é uma aplicação inspirada no estilo da Netflix, que permite
 
 ## Funcionalidades
 
-![Arquitetura inicial N-Layers](https://i.ibb.co/PFBPjzv/arch-Layer.png)
+![Arquitetura inicial N-Layers]
+<a href="https://ibb.co/PFBPjzv"><img src="https://i.ibb.co/PFBPjzv/arch-Layer.png" alt="arch-Layer" border="0" /></a>
 
 - **Listar os episódios de podcasts em sessões de categorias:** Os episódios são organizados em categorias como saúde, bodybuilder, mentalidade e humor, permitindo aos usuários explorar facilmente os conteúdos disponíveis.
 - **Filtrar episódios por nome de podcast:** Os usuários podem realizar buscas específicas por nome de podcast, facilitando o acesso aos episódios desejados.
